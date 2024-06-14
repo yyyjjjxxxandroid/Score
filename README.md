@@ -1,1 +1,4 @@
 # Score
+这个小项目是用于篮球比赛计分的他可以+1+2+3以及撤回和重置所有分数
+这个小项目不难，主要目的是为了让我综合使用jetpack
+它有用到ConstraintLayout,Localization,Screenorientation,ViewModel,LiveData,Data Binding这些方面的知识，综合这些知识做个小项目让加深了我对它理解
